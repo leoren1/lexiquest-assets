@@ -1,2 +1,0 @@
-models/*.task filter=lfs diff=lfs merge=lfs -text
-tts/*.zip filter=lfs diff=lfs merge=lfs -text
